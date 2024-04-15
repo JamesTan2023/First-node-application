@@ -1,0 +1,19 @@
+{
+  "name": "myfirstnode-application",
+  "version": "1.0.0",
+  "description": "this is my first node application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesTan2023/First-node-application.git"
+  },
+  "author": "James",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesTan2023/First-node-application/issues"
+  },
+  "homepage": "https://github.com/JamesTan2023/First-node-application#readme"
+}
